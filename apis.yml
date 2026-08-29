@@ -8,6 +8,17 @@ description: Focused Space, Inc. operates focused.space, a consumer productivity
   500 Global (and E14 Fund) portfolio company. It ships web, iOS, and Android apps but publishes no
   public developer API, SDK, or documentation surface at this time; this profile captures its public
   web and security posture.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
