@@ -1,5 +1,5 @@
 aid: focused-space-inc
-name: Focused Space, Inc.
+name: Focused Space
 description: Focused Space, Inc. operates focused.space, a consumer productivity platform built around
   "body doubling" — a neuroscience-backed technique where people work silently alongside others to more
   easily enter and sustain a flow state. The service combines 100+ weekly live sessions hosted by real
@@ -76,3 +76,4 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-legal-name: Focused Space, Inc.
